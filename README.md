@@ -2,7 +2,7 @@
 Simple Shutdown.Bat File
 (Created By Gamer Productions Inc.)
 
-Clicking th bat file will shut down your computer.
+Clicking the bat file will shut down your computer.
 
 Do no move the Shutdown.bat file thats in "Shutdown (DO NOT MOVE IT OUT!)"
 
